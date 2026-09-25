@@ -19,3 +19,4 @@ ML-инженер, студент 6 курса МГТУ им. Н.Э. Баума�
 #### Проекты
 
 📊 [**RuReviews Sentiment Classification**](https://github.com/vizhiner/RuReviews-Sentiment-Classification) — классификация тональности русскоязычных отзывов: TF-IDF baseline vs fine-tuned rubert-tiny2 (F1 0.76)
+📊 [**Traffic-Intersection-Analysis**](https://github.com/vizhiner/Traffic-Intersection-Analysis) — Детекция, трекинг и подсчёт транспорта/пешеходов на видео с перекрёстка: YOLOv8 + ByteTrack + line-crossing counting
